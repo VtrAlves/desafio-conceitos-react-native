@@ -9,7 +9,7 @@
 
 ## ❕ Sobre o desafio
 
-Esse desafio foi solicitado pela Rocketseat com as instruções passadas <a href= "https://github.com/Rocketseat/gostack-template-conceitos-react-native"> nesse repositório </a>.
+Esse desafio foi solicitado pela Rocketseat com as instruções passadas <a href= "https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native"> nesse repositório </a>.
 
 ## 💻 Alterações do desafio
 
