@@ -33,7 +33,7 @@ Após a instalação, para iniciar o servidor utilize o comando:
 
 > yarn android
    
-> yarn iOS
+> yarn ios
 
 Caso deseja rodar os testes, utilize o seguinte comando:
 
