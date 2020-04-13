@@ -32,6 +32,7 @@ Após a instalação, para iniciar o servidor utilize o comando:
 **Caso você esteja emulando no iOS, na pasta do seu projeto navegue até a pasta ios executando o comando _cd ios_ e depois execute _pod install_ para instalar todas as dependências para o iOS.**
 
 > yarn android
+   
 > yarn iOS
 
 Caso deseja rodar os testes, utilize o seguinte comando:
